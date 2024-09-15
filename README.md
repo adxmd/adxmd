@@ -19,7 +19,9 @@
 
 <h2>💻 I'm currently working on:</h2>
 
-- [My Portfolio Website](https://adamdavid.dev)
+- My Portfolio Website - coming soon
+
+<!-- - [My Portfolio Website](https://adamdavid.dev) -->
 
 <h2>⏳ Recent Work </h2>
 
