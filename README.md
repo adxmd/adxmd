@@ -11,15 +11,21 @@
   </a>
 </div>
 
+<h3 align="center">Check out my <a href="https://adamdavid.dev">portfolio website!</a></h3>
+
+
 <h2>📚 I'm currently learning:</h2>   
 
-- COMP 4010 - Introduction to Reinforcement Learning
-- COMP 4114 - Quantum Computing and Information
-- COMP 2108 - Applied Cryptography and Authentication
+- COMP 2109 - Security and Privacy
+- COMP 3002 - Compiler Construction
+- COMP 4102 - Computer Vision
+- COMP 4107 - Neural Networks
+- COMP 4900 - Multiagent Aspects of RL
 
 <h2>💻 I'm currently working on:</h2>
 
-- My Portfolio Website - coming soon
+- RL Seeker Agent build to play Hide and Seek in Unreal Engine 5.4.4 Environment
+  
 
 <!-- - [My Portfolio Website](https://adamdavid.dev) -->
 
