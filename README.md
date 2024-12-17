@@ -24,7 +24,7 @@
 
 <h2>💻 I'm currently working on:</h2>
 
-- RL Seeker Agent build to play Hide and Seek in Unreal Engine 5.4.4 Environment
+<!-- - RL Seeker Agent build to play Hide and Seek in Unreal Engine 5.4.4 Environment -->
   
 
 <!-- - [My Portfolio Website](https://adamdavid.dev) -->
