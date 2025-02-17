@@ -24,6 +24,8 @@
 
 <h2>💻 I'm currently working on:</h2>
 
+- Military Aircraft Detection and Classification Model
+
 <!-- - RL Seeker Agent build to play Hide and Seek in Unreal Engine 5.4.4 Environment -->
   
 
