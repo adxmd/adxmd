@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">B.C.s Artificial Intelligence and Machine Learning Student at Carleton University currently looking for new work opportunities</h3>
+<h3 align="center">B.C.s Artificial Intelligence and Machine Learning Student at Carleton University</h3>
 
 
 <div align="center" style="padding-top: 8px">
@@ -13,7 +13,7 @@
 
 <h3 align="center">Check out my <a href="https://adamdavid.dev">portfolio website!</a></h3>
 
-
+<!--
 <h2>📚 I'm currently learning:</h2>   
 
 - COMP 2109 - Security and Privacy
@@ -22,9 +22,11 @@
 - COMP 4107 - Neural Networks
 - COMP 4900 - Multiagent Aspects of RL
 
+-->
+
 <h2>💻 I'm currently working on:</h2>
 
-- Military Aircraft Detection and Classification Model
+- Automated License Plate Recognition System (Object Detection/Classification/OCR)
 
 <!-- - RL Seeker Agent build to play Hide and Seek in Unreal Engine 5.4.4 Environment -->
   
@@ -33,6 +35,11 @@
 
 <h2>⏳ Recent Work </h2>
 
+- [Multi-Class Image Classification | Military Aircraft](https://github.com/adxmd/military-aircraft-classification)
+- [Multi-Class Time-Series Classification | ECG Heartbeat](https://github.com/adxmd/ecg_heartbeat_classification)
+- [Binary Classification | Predicting Recurrence of Thyroid Cancer](https://github.com/adxmd/thyroid-cancer-recurrence)
+
+- [Portfolio Website](https://adamdavid.dev)
 - [A&A Design and Construction Website](https://aadescon.ca)
   
 <br>
